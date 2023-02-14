@@ -1,0 +1,16 @@
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\bin\Debug\net5.0\Keylogger.exe
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\bin\Debug\net5.0\Keylogger.deps.json
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\bin\Debug\net5.0\Keylogger.runtimeconfig.json
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\bin\Debug\net5.0\Keylogger.runtimeconfig.dev.json
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\bin\Debug\net5.0\Keylogger.dll
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\bin\Debug\net5.0\Keylogger.pdb
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.csproj.AssemblyReference.cache
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.AssemblyInfoInputs.cache
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.AssemblyInfo.cs
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.dll
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\refint\Keylogger.dll
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.pdb
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\Keylogger.genruntimeconfig.cache
+C:\Users\italo.lana\source\repos\Keylogger\Keylogger\obj\Debug\net5.0\ref\Keylogger.dll
